@@ -1,1 +1,3 @@
-# pratica-python
+# 👩🏻‍💻Python
+
+**Praticas e revisões de conteúdos Python**
