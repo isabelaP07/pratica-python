@@ -1,7 +1,11 @@
-print ('Bem Vindo no jofo de adivinhação') 
+import random
 
-numero_secreto = 42
+print ('Bem Vindo no jogo de adivinhação') 
+
+numero_secreto =random.randrange(1,101) 
 total_de_tentativas = 3
+
+print(numero_secreto)
 
 
 for rodada in range (1,total_de_tentativas +1):
